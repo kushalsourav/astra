@@ -16,8 +16,8 @@ body {
 /****HOME PAGE ****/
 
 .product-type {
-    width: 300px;
-    height: 200px;
+    width: 18.75rem;
+    height: 12.5rem;
     background-color: var(--color-primary);
     position: relative;
     border: none;
@@ -62,7 +62,7 @@ body {
 }
 
 .grid-content {
-    height: 600px;
+    height: 37.5rem;
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
@@ -70,8 +70,8 @@ body {
 
 .overlay {
     border: 3px solid var(--color-white);
-    height: 400px;
-    width: 300px;
+    height: 25rem;
+    width: 18.75rem;
     display: none;
     position: absolute;
 }
