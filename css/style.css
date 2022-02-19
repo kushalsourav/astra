@@ -40,23 +40,23 @@ body {
 }
 
 .product-type-1 {
-    background-image: url('./img/product-1.jpg');
+    background-image: url('../img/product-1.jpg');
     background-size: cover;
 }
 
 .product-type-2 {
-    background-image: url('./img/product-2.jpg');
+    background-image: url('../img/product-2.jpg');
     background-size: cover;
 }
 
 .product-type-3 {
-    background-image: url('./img/product-3.png');
+    background-image: url('../img/product-3.png');
     background-size: cover;
     background-position: center;
 }
 
 .product-type-4 {
-    background-image: url('./img/product-4.jpg');
+    background-image: url('../img/product-4.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -106,30 +106,30 @@ body {
 }
 
 .product-men {
-    background-image: url('./img/men.jpg');
+    background-image: url('../img/men.jpg');
     background-position: center;
 }
 
 .product-women {
-    background-image: url('./img/women.jpg');
+    background-image: url('../img/women.jpg');
 }
 
 .product-men:hover {
-    background-image: linear-gradient(rgba(189, 189, 189, 0.527), rgba(187, 187, 187, 0.562)), url('./img/men.jpg');
+    background-image: linear-gradient(rgba(189, 189, 189, 0.527), rgba(187, 187, 187, 0.562)), url('../img/men.jpg');
     background-position: center;
 }
 
 .product-women:hover {
-    background-image: linear-gradient(rgba(189, 189, 189, 0.527), rgba(187, 187, 187, 0.562)), url('./img/women.jpg');
+    background-image: linear-gradient(rgba(189, 189, 189, 0.527), rgba(187, 187, 187, 0.562)), url('../img/women.jpg');
 }
 
 .card-img-1 {
-    background-image: url('./img/product-5.png');
+    background-image: url('../img/product-5.png');
     background-size: cover;
 }
 
 .card-img-2 {
-    background-image: url('./img/product-2.jpg');
+    background-image: url('../img/product-2.jpg');
     background-size: cover;
 }
 
@@ -188,7 +188,7 @@ input[type="radio"] {
 }
 
 .card-img-2 {
-    background-image: url('./img/product-5.png');
+    background-image: url('../img/product-5.png');
     background-size: cover;
 }
 
@@ -210,7 +210,7 @@ input[type="radio"] {
 }
 
 .card-img-3 {
-    background-image: url('./img/product-6.jpg');
+    background-image: url('../img/product-6.jpg');
     background-size: cover;
 }
 
