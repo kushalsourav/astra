@@ -245,12 +245,6 @@ input[type="radio"] {
 }
 
 @media(max-width: 1000px) {
-    .grid-1-4 {
-        grid-template-columns: auto auto;
-        grid-template-rows: auto auto;
-        justify-content: center;
-        gap: 0.625rem;
-    }
     .grid-1-2 {
         grid-template-columns: repeat( auto-fit, minmax(25rem, 1fr));
         grid-template-rows: 1fr 1fr;
@@ -271,5 +265,9 @@ input[type="radio"] {
     }
     .icon-cart {
         display: none;
+    }
+    .product-list {
+        height: 100%;
+        overflow: auto;
     }
 }
