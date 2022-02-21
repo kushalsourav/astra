@@ -251,6 +251,11 @@ input[type="radio"] {
         justify-content: center;
         gap: 0.625rem;
     }
+    .grid-1-2 {
+        grid-template-columns: repeat( auto-fit, minmax(25rem, 1fr));
+        grid-template-rows: 1fr 1fr;
+        gap: 2rem;
+    }
 }
 
 @media(max-width:500px) {
